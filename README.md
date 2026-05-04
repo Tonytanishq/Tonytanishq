@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tony 👋
 
-<!--
-**Tonytanishq/Tonytanishq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Artificial Intelligence and Data Science student  
+💡 Interested in Machine Learning and Problem Solving  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Customer Churn Prediction
+- Athlete Injury Prediction
+- Smart Temperature-Controlled Water Bottle  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python | Machine Learning | SQL | Data Structures  
+
+## 📈 Currently Learning
+- Data Structures and Algorithms  
+- ML Deployment  
+
+## 🔗 Connect with me
+LinkedIn: https://www.linkedin.com/in/tony-tansihq-320258293
